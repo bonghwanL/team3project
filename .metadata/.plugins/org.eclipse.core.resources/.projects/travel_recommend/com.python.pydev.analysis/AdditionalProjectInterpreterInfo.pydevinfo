@@ -1,0 +1,63 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\work\Data_teampro\teampro3\team3project\.metadata\.plugins\org.eclipse.core.resources\.projects\travel_recommend\com.python.pydev.analysis\v2_indexcache
+travel.__init__|1608615252681364100|C:\Users\Bonghwan\git\team3project\travel_recommend\travel\__init__.py
+travel.apps|1608615252682364300|C:\Users\Bonghwan\git\team3project\travel_recommend\travel\apps.py
+travel.views|1608615252652610400|C:\Users\Bonghwan\git\team3project\travel_recommend\travel\views.py
+travel_recommend.__init__|1608615252681364100|C:\Users\Bonghwan\git\team3project\travel_recommend\travel_recommend\__init__.py
+travel.admin|1608615252613817000|C:\Users\Bonghwan\git\team3project\travel_recommend\travel\admin.py
+travel_recommend.asgi|1608615252687365500|C:\Users\Bonghwan\git\team3project\travel_recommend\travel_recommend\asgi.py
+travel_recommend.settings|1608615252730159400|C:\Users\Bonghwan\git\team3project\travel_recommend\travel_recommend\settings.py
+manage|1608615252670361100|C:\Users\Bonghwan\git\team3project\travel_recommend\manage.py
+travel_recommend.urls|1608615252620135700|C:\Users\Bonghwan\git\team3project\travel_recommend\travel_recommend\urls.py
+travel.tests|1608615252703369500|C:\Users\Bonghwan\git\team3project\travel_recommend\travel\tests.py
+travel.migrations.__init__|1608615252597986500|C:\Users\Bonghwan\git\team3project\travel_recommend\travel\migrations\__init__.py
+travel.models|1608615252646196200|C:\Users\Bonghwan\git\team3project\travel_recommend\travel\models.py
+travel_recommend.wsgi|1608615252691366900|C:\Users\Bonghwan\git\team3project\travel_recommend\travel_recommend\wsgi.py
+-- END DISKCACHE
+-- START DICTIONARY
+15
+15=TravelConfig
+12=travel.apps
+5=C:\Users\Bonghwan\git\team3project\travel_recommend\travel_recommend\wsgi.py
+8=travel.views
+3=C:\Users\Bonghwan\git\team3project\travel_recommend\travel_recommend\asgi.py
+4=travel_recommend.asgi
+11=C:\Users\Bonghwan\git\team3project\travel_recommend\travel\apps.py
+2=travel_recommend.settings
+7=C:\Users\Bonghwan\git\team3project\travel_recommend\travel\views.py
+10=manage
+9=C:\Users\Bonghwan\git\team3project\travel_recommend\manage.py
+14=travel_recommend.urls
+1=C:\Users\Bonghwan\git\team3project\travel_recommend\travel_recommend\settings.py
+13=C:\Users\Bonghwan\git\team3project\travel_recommend\travel_recommend\urls.py
+6=travel_recommend.wsgi
+-- END DICTIONARY
+-- START TREE 1
+21
+all|1|ALLOWED_HOSTS!1^28#1*19@
+app|2|application!3^16#1*35@application!5^16#1*51@
+aut|1|AUTH_PASSWORD_VALIDATORS!1^101#1*19@
+bas|1|BASE_DIR!1^16#1*19@
+dat|1|DATABASES!1^82#1*19@
+deb|1|DEBUG!1^26#1*19@
+det|1|DetailFunction!7^31#5*66@
+ins|1|INSTALLED_APPS!1^41#1*19@
+lan|1|LANGUAGE_CODE!1^107#1*19@
+mai|2|main!9^7#5*82@MainFunc!7^5#5*66@
+mid|1|MIDDLEWARE!1^51#1*19@
+roo|1|ROOT_URLCONF!1^53#1*19@
+sea|1|SearchFunction!7^8#5*66@
+sec|1|SECRET_KEY!1^23#1*19@
+sta|2|STATIC_URL!1^121#1*19@STATICFILES_DIRS!1^126#1*19@
+tem|1|TEMPLATES!1^69#1*19@
+tim|1|TIME_ZONE!1^109#1*19@
+tra|1|TravelConfig!11^4#7*97@
+url|1|urlpatterns!13^26#1*115@
+use|3|USE_L10N!1^113#1*19@USE_I18N!1^111#1*19@USE_TZ!1^115#1*19@
+wsg|1|WSGI_APPLICATION!1^71#1*19@
+-- END TREE
+-- START TREE 2
+1
+nam|1|name!15&11^5#5*99@
+-- END TREE

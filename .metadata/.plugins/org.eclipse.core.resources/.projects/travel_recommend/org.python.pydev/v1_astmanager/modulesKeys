@@ -1,0 +1,14 @@
+MODULES_MANAGER_V3
+manage|C:\Users\Bonghwan\git\team3project\travel_recommend\manage.py
+travel.__init__|C:\Users\Bonghwan\git\team3project\travel_recommend\travel\__init__.py
+travel.admin|C:\Users\Bonghwan\git\team3project\travel_recommend\travel\admin.py
+travel.apps|C:\Users\Bonghwan\git\team3project\travel_recommend\travel\apps.py
+travel.migrations.__init__|C:\Users\Bonghwan\git\team3project\travel_recommend\travel\migrations\__init__.py
+travel.models|C:\Users\Bonghwan\git\team3project\travel_recommend\travel\models.py
+travel.tests|C:\Users\Bonghwan\git\team3project\travel_recommend\travel\tests.py
+travel.views|C:\Users\Bonghwan\git\team3project\travel_recommend\travel\views.py
+travel_recommend.__init__|C:\Users\Bonghwan\git\team3project\travel_recommend\travel_recommend\__init__.py
+travel_recommend.asgi|C:\Users\Bonghwan\git\team3project\travel_recommend\travel_recommend\asgi.py
+travel_recommend.settings|C:\Users\Bonghwan\git\team3project\travel_recommend\travel_recommend\settings.py
+travel_recommend.urls|C:\Users\Bonghwan\git\team3project\travel_recommend\travel_recommend\urls.py
+travel_recommend.wsgi|C:\Users\Bonghwan\git\team3project\travel_recommend\travel_recommend\wsgi.py
