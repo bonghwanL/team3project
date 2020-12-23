@@ -2,6 +2,7 @@
 -- START DISKCACHE_3
 C:\work\Data_teampro\teampro3\team3project\.metadata\.plugins\org.eclipse.core.resources\.projects\travel_recommend\com.python.pydev.analysis\v2_indexcache
 travel.__init__|1608640336809356900|C:\work\Data_teampro\teampro3\team3project\team3project\travel_recommend\travel\__init__.py
+<<<<<<< HEAD
 travel.apps|1608640336812357600|C:\work\Data_teampro\teampro3\team3project\team3project\travel_recommend\travel\apps.py
 recommend_app.tests|1608645349225932500|C:\work\Data_teampro\teampro3\team3project\team3project\travel_recommend\recommend_app\tests.py
 recommend_app.migrations.__init__|1608645349228965200|C:\work\Data_teampro\teampro3\team3project\team3project\travel_recommend\recommend_app\migrations\__init__.py
@@ -71,4 +72,87 @@ wsg|1|WSGI_APPLICATION!1^71#1*19@
 -- START TREE 2
 1
 nam|2|name!17&13^5#5*115@name!18&11^5#5*99@
+=======
+recommend_app.tests|1608645349225932500|C:\work\Data_teampro\teampro3\team3project\team3project\travel_recommend\recommend_app\tests.py
+travel.apps|1608640336812357600|C:\work\Data_teampro\teampro3\team3project\team3project\travel_recommend\travel\apps.py
+recommend_app.migrations.__init__|1608645349228965200|C:\work\Data_teampro\teampro3\team3project\team3project\travel_recommend\recommend_app\migrations\__init__.py
+travel.views|1608640336815358400|C:\work\Data_teampro\teampro3\team3project\team3project\travel_recommend\travel\views.py
+travel_recommend.__init__|1608640336815358400|C:\work\Data_teampro\teampro3\team3project\team3project\travel_recommend\travel_recommend\__init__.py
+travel.admin|1608640336811357200|C:\work\Data_teampro\teampro3\team3project\team3project\travel_recommend\travel\admin.py
+travel_recommend.asgi|1608640336818358100|C:\work\Data_teampro\teampro3\team3project\team3project\travel_recommend\travel_recommend\asgi.py
+travel_recommend.settings|1608640336818358100|C:\work\Data_teampro\teampro3\team3project\team3project\travel_recommend\travel_recommend\settings.py
+recommend_app.views|1608656930531731100|C:\work\Data_teampro\teampro3\team3project\team3project\travel_recommend\recommend_app\views.py
+manage|1608640336809356900|C:\work\Data_teampro\teampro3\team3project\team3project\travel_recommend\manage.py
+travel_recommend.urls|1608640336819359100|C:\work\Data_teampro\teampro3\team3project\team3project\travel_recommend\travel_recommend\urls.py
+recommend_app.apps|1608645349224931900|C:\work\Data_teampro\teampro3\team3project\team3project\travel_recommend\recommend_app\apps.py
+travel.tests|1608640336815358400|C:\work\Data_teampro\teampro3\team3project\team3project\travel_recommend\travel\tests.py
+recommend_app.admin|1608645349222931400|C:\work\Data_teampro\teampro3\team3project\team3project\travel_recommend\recommend_app\admin.py
+recommend_app.__init__|1608645349226932200|C:\work\Data_teampro\teampro3\team3project\team3project\travel_recommend\recommend_app\__init__.py
+travel.migrations.__init__|1608640336812357600|C:\work\Data_teampro\teampro3\team3project\team3project\travel_recommend\travel\migrations\__init__.py
+travel.models|1608640336813357800|C:\work\Data_teampro\teampro3\team3project\team3project\travel_recommend\travel\models.py
+travel_recommend.wsgi|1608640336819359100|C:\work\Data_teampro\teampro3\team3project\team3project\travel_recommend\travel_recommend\wsgi.py
+recommend_app.models|1608645349224931900|C:\work\Data_teampro\teampro3\team3project\team3project\travel_recommend\recommend_app\models.py
+-- END DISKCACHE
+-- START DICTIONARY
+20
+20=TravelConfig
+16=travel.apps
+3=C:\work\Data_teampro\teampro3\team3project\team3project\travel_recommend\travel_recommend\asgi.py
+8=travel.views
+13=C:\work\Data_teampro\teampro3\team3project\team3project\travel_recommend\recommend_app\apps.py
+4=travel_recommend.asgi
+2=travel_recommend.settings
+15=C:\work\Data_teampro\teampro3\team3project\team3project\travel_recommend\travel\apps.py
+17=C:\work\Data_teampro\teampro3\team3project\team3project\travel_recommend\travel_recommend\urls.py
+10=recommend_app.views
+12=manage
+9=C:\work\Data_teampro\teampro3\team3project\team3project\travel_recommend\recommend_app\views.py
+18=travel_recommend.urls
+14=recommend_app.apps
+5=C:\work\Data_teampro\teampro3\team3project\team3project\travel_recommend\travel_recommend\wsgi.py
+11=C:\work\Data_teampro\teampro3\team3project\team3project\travel_recommend\manage.py
+7=C:\work\Data_teampro\teampro3\team3project\team3project\travel_recommend\travel\views.py
+19=RecommendAppConfig
+1=C:\work\Data_teampro\teampro3\team3project\team3project\travel_recommend\travel_recommend\settings.py
+6=travel_recommend.wsgi
+-- END DICTIONARY
+-- START TREE 1
+32
+all|1|ALLOWED_HOSTS!1^28#1*19@
+app|2|application!3^16#1*35@application!5^16#1*51@
+aut|1|AUTH_PASSWORD_VALIDATORS!1^101#1*19@
+bas|1|BASE_DIR!1^16#1*19@
+dat|1|DATABASES!1^82#1*19@
+deb|1|DEBUG!1^26#1*19@
+det|1|DetailFunction!7^31#5*66@
+emb|1|embedding_dimension!9^19#1*83@
+ins|1|INSTALLED_APPS!1^41#1*19@
+lan|1|LANGUAGE_CODE!1^107#1*19@
+mai|2|main!11^7#5*98@MainFunc!7^5#5*66@
+mid|1|MIDDLEWARE!1^51#1*19@
+num|1|num_features!9^17#1*83@
+rat|1|rating!9^21#1*83@
+rec|1|RecommendAppConfig!13^4#7*113@
+roo|1|ROOT_URLCONF!1^53#1*19@
+sca|1|scaler!9^54#1*83@
+sea|1|SearchFunction!7^8#5*66@
+sec|1|SECRET_KEY!1^23#1*19@
+seq|1|sequence_length!9^18#1*83@
+sta|2|STATIC_URL!1^121#1*19@STATICFILES_DIRS!1^126#1*19@
+tem|1|TEMPLATES!1^69#1*19@
+tim|1|TIME_ZONE!1^109#1*19@
+tra|1|TravelConfig!15^4#7*129@
+url|1|urlpatterns!17^26#1*147@
+use|3|USE_L10N!1^113#1*19@USE_I18N!1^111#1*19@USE_TZ!1^115#1*19@
+vec|1|vectorize_sequences!9^84#5*82@
+wsg|1|WSGI_APPLICATION!1^71#1*19@
+x|1|x!9^25#1*83@
+x_s|1|x_scale!9^57#1*83@
+x_t|4|x_trains!9^67#1*83@x_train!9^76#1*83@x_test!9^77#1*83@x_tests!9^71#1*83@
+y|1|y!9^26#1*83@
+-- END TREE
+-- START TREE 2
+1
+nam|2|name!19&13^5#5*115@name!20&15^5#5*131@
+>>>>>>> refs/heads/main
 -- END TREE

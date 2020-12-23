@@ -123,12 +123,20 @@ div#tour-recommend{
 	</div>
 	
 	<br><br>
+<<<<<<< HEAD
 	<!-- 
+=======
+	 
+>>>>>>> refs/heads/main
 	<input type='date' id='start_date' name='start_date'/>
 	~
 	<input type='date' id='end_date' name='end_date'/>
 	<br><br>
+<<<<<<< HEAD
 	 -->
+=======
+	 
+>>>>>>> refs/heads/main
 	</form>
 </div>
 
@@ -153,13 +161,18 @@ div#tour-recommend{
 		{% for r in root %}
 			<div class="card card-3">
 			<a href="detail">{{r}}</a>
+<<<<<<< HEAD
 			<p>{{weather}}</p>
+=======
+			<!--  <p>{{weather}}</p>-->
+>>>>>>> refs/heads/main
 			</div>
 		{% endfor %}			
 	{% endif %}
 	</div>
 	
 	<!-- 날씨 -->
+<<<<<<< HEAD
 	<!--  
 	<div id='weather'>
 	{% if start != None and end != None %}
@@ -172,6 +185,22 @@ div#tour-recommend{
 	{% endif %}
 	</div>
 	-->
+=======
+	  
+	<div id='weather'>
+	{% if weather %}
+		
+		<span><b style="color: blue;">{{start}} ~ {{end}} 날씨  →</b> 
+		{% for w in weather %}
+			<b style="color: red;">{{w}} </b>/ 
+		{% endfor %}
+		</span>
+	{% else %}
+		<h4>날씨가 없습니다.</h4>
+	{% endif %}
+	</div>
+	
+>>>>>>> refs/heads/main
 	
 	<!-- 여행지 -->
 	<div id='tour-recommend'>
