@@ -124,19 +124,27 @@ div#tour-recommend{
 	
 	<br><br>
 <<<<<<< HEAD
+<<<<<<< HEAD
 	<!-- 
 =======
 	 
 >>>>>>> refs/heads/main
+=======
+	 
+>>>>>>> branch 'main' of https://github.com/KICteam3Project/team3project.git
 	<input type='date' id='start_date' name='start_date'/>
 	~
 	<input type='date' id='end_date' name='end_date'/>
 	<br><br>
 <<<<<<< HEAD
+<<<<<<< HEAD
 	 -->
 =======
 	 
 >>>>>>> refs/heads/main
+=======
+	 
+>>>>>>> branch 'main' of https://github.com/KICteam3Project/team3project.git
 	</form>
 </div>
 
@@ -162,10 +170,14 @@ div#tour-recommend{
 			<div class="card card-3">
 			<a href="detail">{{r}}</a>
 <<<<<<< HEAD
+<<<<<<< HEAD
 			<p>{{weather}}</p>
 =======
 			<!--  <p>{{weather}}</p>-->
 >>>>>>> refs/heads/main
+=======
+			<!--  <p>{{weather}}</p>-->
+>>>>>>> branch 'main' of https://github.com/KICteam3Project/team3project.git
 			</div>
 		{% endfor %}			
 	{% endif %}
@@ -173,17 +185,24 @@ div#tour-recommend{
 	
 	<!-- 날씨 -->
 <<<<<<< HEAD
+<<<<<<< HEAD
 	<!--  
+=======
+	  
+>>>>>>> branch 'main' of https://github.com/KICteam3Project/team3project.git
 	<div id='weather'>
-	{% if start != None and end != None %}
-		<span>{{start}} ~ {{end}}</span>
-		<br>
-		<span> 날씨는? </span>
+	{% if weather %}
 		
+		<span><b style="color: blue;">{{start}} ~ {{end}} 날씨  →</b> 
+		{% for w in weather %}
+			<b style="color: red;">{{w}} </b>/ 
+		{% endfor %}
+		</span>
 	{% else %}
-		<h4>날짜를 선택하시면 날씨를 볼 수 있습니다.</h4>
+		<h4>날씨가 없습니다.</h4>
 	{% endif %}
 	</div>
+<<<<<<< HEAD
 	-->
 =======
 	  
@@ -201,6 +220,9 @@ div#tour-recommend{
 	</div>
 	
 >>>>>>> refs/heads/main
+=======
+	
+>>>>>>> branch 'main' of https://github.com/KICteam3Project/team3project.git
 	
 	<!-- 여행지 -->
 	<div id='tour-recommend'>
